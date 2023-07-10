@@ -1,3 +1,7 @@
 # HumanSperm_MultiOmics
+
+### Data availability
+All raw sequence data reported in this paper have been deposited in the Genome Sequence Archive in National Genomics Data Center, China National Center for Bioinformation / Beijing Institute of Genomics, Chinese Academy of Sciences. The accession numbers are listed as below: the single-cell multi-omics sequencing raw data is under HRA000148 (Shared URL: https://ngdc.cncb.ac.cn/gsa-human/browse/HRA000148), the single-cell RNA sequencing raw data of NOA3-NOA8 is under HRA004917 (Shared URL: https://ngdc.cncb.ac.cn/gsa-human/browse/HRA004917), the HEK293T cell line sequencing raw data is under HRA004922 (Shared URL: https://ngdc.cncb.ac.cn/gsa-human/browse/HRA004922),  and the Uhrf1-cKO and control mice sequencing data is under CRA011561 (Shared URL: https://ngdc.cncb.ac.cn/gsa/browse/CRA011561). All processed data reported in this paper have been deposited in the Gene Expression Omnibus (GEO, https://www.ncbi.nlm.nih.gov/geo) at NCBI under accession number GSE235324. Previously published scRNA-seq data of human normal testis and NOA9 are available under accession number GSE106487 and GSE157421. Source data are provided with this paper. All other data supporting the findings of this study are available from the corresponding author on reasonable request.
+
 ### Contact
 Feel free to submit an issue or contact us at yxy96991@gmail.com for problems about this project.
